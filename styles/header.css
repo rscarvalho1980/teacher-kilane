@@ -54,13 +54,15 @@
     font-family: var(--fonte-principal);
     color: var(--cor-branca);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
-    font-size: 22px;
+    font-size: 18px;
     width: 3em;
 }
 
 .header__titulo__now{
     color: rgb(196, 1, 1);
     text-shadow: 1px 1px 1px #ffffff;
+    font-size: 18px;
+
 }
 
 .lista__menu{
