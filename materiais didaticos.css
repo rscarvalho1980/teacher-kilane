@@ -149,12 +149,20 @@ margin-top: 1em 30em;
     display: none;
 }
 
-.material-didatico__titulo__desktop{
+/* .material-didatico__titulo__desktop{
     font-family: var(--fonte-principal);
     color: var(--azul);
     font-size: 28px;
     text-align: center;
-    padding: 0 1em;
+    padding: 0 1em; 
+}*/
+
+.material-didatico__titulo__mobile{
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    font-size: 30px;
+    text-align: center;
+    padding: 0 1em; 
 }
 
 .menu__lista__desktop{
