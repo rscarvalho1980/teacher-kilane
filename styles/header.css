@@ -42,6 +42,7 @@
        
 }
 
+
 /* .container__imagem{
     padding: 1em;
 } */
@@ -181,15 +182,6 @@
     .header__menu__desktop:hover{
         color: var(--azul);
     }
-    
-    
-    .header__phone__paragrafo{
-        color: var(--branco);
-        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
-        font-size: 10px;
-        
-    
-    }
         
     .header__phone{
         display: flex;
@@ -197,6 +189,13 @@
         font-family: var(--fonte-principal); 
         font-size: 28px;
            
+    }
+
+    .header__phone__paragrafo{
+        color: var(--branco);
+        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+        font-size: 10px;
+        
     }
     
     .header__phone__link{
