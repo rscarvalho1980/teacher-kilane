@@ -37,8 +37,8 @@
     justify-content: space-between;
     align-items: center;    
     color: var(--branco);
-    width: 25em; 
-    margin-right: .5em;
+    width: auto; 
+    /* margin-right: .5em; */
        
 }
 
