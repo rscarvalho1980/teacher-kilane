@@ -41,6 +41,10 @@ margin-left: 1.5em;
     text-align: justify;
     padding: 0 1em;
 }
+.material-didatico__titulo__desktop{
+    display: none;
+}
+
 .material-didático__subtitulo__mobile{
     font-family: var(--fonte-secundária);
     color: var(--azul);
@@ -141,12 +145,16 @@ margin-top: 1em 30em;
 .materiais__desktop{
     display: block;
 }
-.material-didatico__mobile{
-    background-color: var(--branco);
-    padding: 1em;
-    margin: 5em     ;
-    border-radius: 10px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+.material-didatico__titulo__mobile{
+    display: none;
+}
+
+.material-didatico__titulo__desktop{
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    font-size: 28px;
+    text-align: center;
+    padding: 0 1em;
 }
 
 .menu__lista__desktop{
