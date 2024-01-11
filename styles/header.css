@@ -150,14 +150,14 @@
     .header__titulo{
         color:var(--azul);
         text-shadow: 2px 2px 2px var(--branco);
-        font-size: 12px;
+        font-size: 18px;
 
 
     }
     .header__titulo__now{
         color: red;
         text-shadow: 2px 2px 2px var(--branco);
-        font-size: 12px;
+        font-size: 18px;
 
     }
 
